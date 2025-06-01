@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BinarySearchTree {
+public class BSTProgram {
     public static void main(String[] args) {
 
         // Node class. References left and right child nodes. If there's no left or right child, make it null
